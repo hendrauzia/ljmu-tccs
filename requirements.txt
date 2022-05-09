@@ -1,4 +1,5 @@
 matplotlib
 notebook
 pandas
+seaborn
 sklearn
