@@ -1,5 +1,7 @@
 matplotlib
+numpy
 notebook
 pandas
+scipy
 seaborn
 sklearn
